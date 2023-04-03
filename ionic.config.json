@@ -1,0 +1,7 @@
+{
+  "name": "swc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
